@@ -1,16 +1,20 @@
 # <h2> postoffice_database
 
-### <h6>this is an <h1> tag
-
-* Item 1
-  * Item 2
-  * Item 3
-*Item 4
+* <h3>開發背景
  
-`Format one word or one line`
-   code (4 spaces indent)
- 
-> Quote one sentence
->> Quote two sentence
->>> Quote three sentence
->>>> Quote four sentence
+  <h6>學校的選修課程期末作業。想試試看能不能自己把前後端的東西串起來，所以這個專案就誕生了。
+   
+  <h6>至於為何是 postoffice database？只是因為決定主題的前幾天剛好用郵局的包裹搬家而已。
+    
+* <h3> 使用方法
+    
+    <h6> 該資料庫的預設使用者為郵局內部的從業人員。進入首頁後有四個項目可供使用，分別為新增、查詢、刪除、修改。
+     
+    <h6> 這些操作的對象皆為信件。依照該頁面空格指示填入符合之項目進行操作。
+     
+* <h3> 待更新項目
+     
+    <h6> 目前該專案還在開發階段，各個介面都還沒有放入防呆機制。
+      
+   * <h6> 建立防呆機制
+   * <h6> 加入郵局人員登入頁面，免除員工在登錄信件時的重複輸入自己的員工編號。
