@@ -2,6 +2,6 @@
 
 ### <h6>this is an <h1> tag
 
-*Item 1
-  *bb Item 2
-  *cc Item 3
+* Item 1
+  * Item 2
+  * Item 3
