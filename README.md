@@ -5,6 +5,7 @@
 * Item 1
   * Item 2
   * Item 3
-*Item 4\n
+*Item 4
+ 
 `Format one word or one line`
    code (4 spaces indent)
