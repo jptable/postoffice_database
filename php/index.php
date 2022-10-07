@@ -5,7 +5,7 @@
 	<head>
 
 		<style type="text/css">
-		<!--
+		
 			.mainPage{
 				height: 100%;
 				width: 100%;
@@ -121,7 +121,7 @@
 				background-color: #4CAF50; /* Green */
     			color: white;
 			}
-		-->
+		
 		</style>
 		
 	</head>
